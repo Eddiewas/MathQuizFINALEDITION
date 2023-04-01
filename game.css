@@ -1,0 +1,11 @@
+body {
+background-color: aquamarine;
+text-align: center;
+}
+#output {
+    background-color: aliceblue;
+    padding: 10px;
+    float: none;
+    text-align: left;
+    border-top: 10px solid green;
+}
